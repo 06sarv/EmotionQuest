@@ -1,6 +1,6 @@
 # 🧠 EmotionQuest - Emotional Intelligence Quiz
 
-<div align="center">
+<div >
   <p><strong>Test and grow your emotional intelligence with a fun, interactive quiz!</strong></p>
 </div>
 
@@ -10,7 +10,7 @@ EmotionQuest is a modern, intuitive web app that challenges you to recognize emo
   <img src="client/public/screenshots/Questions.png" alt="Quiz Screenshot" style="max-width: 100%; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <img src="client/public/screenshots/Results.png" alt="Results Screenshot" style="max-width: 100%; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
----
+
 
 ## ✨ Features
 - Emotion Quiz: Identify emotions from emoji and real-life sentences.
